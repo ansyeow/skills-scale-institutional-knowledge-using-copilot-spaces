@@ -26,6 +26,14 @@ Developers design, build, test, and deliver software components. They collaborat
 - PR descriptions and code review comments
 - Technical design docs when needed
 
+### Interactions with Other Roles
+- **Product Managers**: Collaborate on feature requirements, provide effort estimates, and discuss technical trade-offs
+- **Project Managers**: Report progress, surface blockers, and provide timeline estimates
+- **Tech Lead / Lead Engineer**: Seek guidance on architecture, participate in code reviews, and collaborate on technical design
+- **QA/Testing**: Work closely on test coverage, bug fixes, and acceptance criteria validation
+- **UX/UI Designer**: Implement designs with attention to specs and discuss technical constraints
+- **Business Analysts**: Clarify requirements and acceptance criteria during implementation
+
 ---
 
 ## Product Managers
@@ -48,6 +56,15 @@ Product Managers define what should be built to deliver customer and business va
 - Weekly alignment with PM and engineering leads
 - Roadmap updates and stakeholder briefings
 - Acceptance criteria and feature specs
+
+### Interactions with Other Roles
+- **Developers**: Provide clear requirements, answer questions, and validate delivered features
+- **Project Managers**: Align on priorities, timelines, and resource allocation
+- **Tech Lead / Lead Engineer**: Collaborate on technical feasibility and trade-offs
+- **QA/Testing**: Define acceptance criteria and validate quality of delivered features
+- **UX/UI Designer**: Partner on feature definition, user research insights, and design validation
+- **Business Analysts**: Work together on business requirements and impact analysis
+- **Support Engineers**: Gather customer feedback to inform product decisions and prioritization
 
 ---
 
@@ -73,6 +90,15 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Risk registers and decision logs
 - Coordination via project boards and meeting facilitation
 
+### Interactions with Other Roles
+- **Product Managers**: Align on roadmap, priorities, and delivery timelines
+- **Developers**: Track progress, facilitate planning, and remove blockers
+- **Tech Lead / Lead Engineer**: Assess technical risks and validate estimates
+- **QA/Testing**: Coordinate test planning and quality gates
+- **UX/UI Designer**: Ensure design deliverables align with project timelines
+- **Business Analysts**: Collaborate on scope definition and dependency mapping
+- **Support Engineers**: Monitor post-release feedback and coordinate issue resolution
+
 ---
 
 ## QA / Testing
@@ -96,6 +122,15 @@ QA Engineers ensure quality and validate that features meet acceptance criteria 
 - Bug reports and test results
 - Daily standups and sprint reviews
 - Test coverage reports and quality metrics
+
+### Interactions with Other Roles
+- **Developers**: Report bugs, validate fixes, and collaborate on test coverage
+- **Product Managers**: Validate acceptance criteria and provide quality feedback
+- **Project Managers**: Report testing progress and flag quality risks
+- **Tech Lead / Lead Engineer**: Collaborate on test strategy and automation infrastructure
+- **UX/UI Designer**: Perform usability and visual regression testing
+- **Business Analysts**: Validate business requirements through testing scenarios
+- **Support Engineers**: Share real-world usage patterns for test case development
 
 ---
 
