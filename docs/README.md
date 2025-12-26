@@ -12,7 +12,7 @@ OctoAcme uses a structured approach with the following phases and artifacts:
 - **Release & Deployment:** Standardize how features are released, deploy via pipelines, and document release notes and rollback plans (see Release & Deployment Guide)
 - **Risk Management:** Ongoing risk and dependency tracking, clear escalation paths, and consistent stakeholder communication (see Risk Management & Communication)
 - **Retrospectives:** Continuous improvement via regular retrospectives and action items (see Retrospective & Continuous Improvement)
-- **Roles & Responsibilities:** Clear role definitions for PM, PdM, Developers, QA, and Stakeholders (see Roles & Personas)
+- **Roles & Responsibilities:** Clear role definitions for PM, PdM, Developers, Tech Lead, QA, UX/UI Designer, Business Analyst, Support Engineers, and Stakeholders (see Roles & Personas)
 
 ## OctoAcme Process Docs
 
